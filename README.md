@@ -1,2 +1,2 @@
-# NLP_studies
+# NLP Studies
 Hanseul's Natural Language Processing studies repo
